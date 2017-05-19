@@ -1,0 +1,17 @@
+= Spring Rest Doc for demo app test
+:souce-highlighter: highlightjs
+
+Access the recall service for given vin using curl:
+
+include::{snippets}/recallsForVin/curl-request.adoc[]
+
+Access the recall service for given vin using http:
+
+include::{snippets}/recallsForVin/http-request.adoc[]
+
+The response for above requests:
+
+include::{snippets}/recallsForVin/http-response.adoc[]
+
+
+

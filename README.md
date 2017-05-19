@@ -1,1 +1,1 @@
-demo project - contains springroot, jpa repo, rest controllers
+demo project - contains springboot, jpa repo, rest controllers
